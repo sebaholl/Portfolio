@@ -60,6 +60,8 @@
 import Semester_project from '@/images/Google_lighthouse.jpg'
 import E_commerce from '@/images/E-commerce_shop.png'
 import Recipe from '@/images/Recipe_website.png'
+import VideoCV from '@/images/Seb_VideoCV.jpg'
+import CityBranding from '@/images/City_branding.jpg'
 
 export default {
   data() {
@@ -91,14 +93,14 @@ export default {
           title: 'Video CV',
           shortDescription: 'A brief video CV showcasing my skills, experience, and background.',
           description: 'For my video CV, I created a dynamic presentation that highlights both my Front-End Development and Design skills. I wrote a script to showcase my journey and used video editing tools to produce a visually engaging, concise, and professional video. This project allowed me to combine my technical and creative abilities in a compelling way.',
-          image: 'https://via.placeholder.com/600x400',
+          image: VideoCV,
           tools: ['Adobe Premiere Pro', 'Adobe After Effects']
         },
         {
           title: 'City Branding',
           shortDescription: 'City branding campaign with light installations and social media analysis.',
           description: 'We created a city branding campaign inspired by the Signal Festival, designing visual and video representations for a different city. We also gathered data to assess the impact of promoting the event on social media. The Signal Festival is an event in Prague that features light installations and interactive art, transforming the city into an outdoor gallery.',
-          image: 'https://via.placeholder.com/600x400',
+          image: CityBranding,
           tools: ['Adobe Indesign', 'Adobe Photoshop', 'Adobe Premiere Pro', 'Adobe After Effects']
         }
       ]
