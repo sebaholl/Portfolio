@@ -1,0 +1,37 @@
+@import './base.css';
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Monomaniac+One&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Rock+Salt&display=swap');
+
+#app {
+  width: 100%;
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+.font-rock {
+  font-family: 'Rock Salt', cursive;
+}
+
+
+
+
+
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 0;
+  }
+}
