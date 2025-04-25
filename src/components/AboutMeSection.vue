@@ -23,7 +23,7 @@
         >
           {{ videoVisible ? 'Hide Video' : 'Watch Video CV' }}
         </button>
-        <a href="/SebastianHoll_CV.pdf" download>
+        <a href="/Seb_CV.pdf" download>
           <button class="px-8 py-3 bg-slate-800 text-white font-semibold rounded-full hover:bg-slate-700 transition duration-300 shadow-md">
             Download My CV
           </button>

@@ -71,7 +71,7 @@ export default {
         {
           title: 'Semester Project',
           shortDescription: 'Creation of campaign to support the fight against plastic pollution.',
-          description: 'School project focused on raising awareness about plastic pollution. We used tools like HTML and CSS to build a simple promotional webpage, and GitHub to manage and share our code. Adobe Illustrator and InDesign helped us design posters and flyers, while Premiere Pro was used to create a short promo video. The goal was to deliver a clean and effective campaign across different platforms.',
+          description: 'School Group project focused on raising awareness about plastic pollution. We used tools like HTML and CSS to build a simple promotional webpage, and GitHub to manage and share our code. Adobe Illustrator and InDesign helped us design posters and flyers, while Premiere Pro was used to create a short promo video. The goal was to deliver a clean and effective campaign across different platforms.',
           image: Semester_project,
           tools: ['HTML', 'CSS', 'Adobe Illustrator', 'Adobe Premiere Pro', 'Adobe Indesign', 'GitHub']
         },
@@ -99,7 +99,7 @@ export default {
         {
           title: 'City Branding',
           shortDescription: 'City branding campaign with light installations and social media analysis.',
-          description: 'We created a city branding campaign inspired by the Signal Festival, designing visual and video representations for a different city. We also gathered data to assess the impact of promoting the event on social media. The Signal Festival is an event in Prague that features light installations and interactive art, transforming the city into an outdoor gallery.',
+          description: 'As it was a Group Project we created a city branding campaign inspired by the Signal Festival, designing visual and video representations for a different city. We also gathered data to assess the impact of promoting the event on social media. The Signal Festival is an event in Prague that features light installations and interactive art, transforming the city into an outdoor gallery.',
           image: CityBranding,
           tools: ['Adobe Indesign', 'Adobe Photoshop', 'Adobe Premiere Pro', 'Adobe After Effects']
         }

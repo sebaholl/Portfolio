@@ -98,7 +98,7 @@ export default {
         },
         {
           label: 'LinkedIn',
-          url: 'https://www.linkedin.com/in/sebastian-h%C3%B6ll/',
+          url: 'https://www.linkedin.com/in/sh%C3%B6ll/',
           icon: ['fab', 'linkedin']
         },
         {
